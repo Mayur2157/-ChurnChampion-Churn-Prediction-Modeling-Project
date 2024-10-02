@@ -1,4 +1,4 @@
-#ChurnChampion: Churn Prediction Modeling#
+##ChurnChampion: Churn Prediction Modeling##
 
 Overview :
 ChurnChampion is a predictive modeling project focused on forecasting customer churn. This project aims to help businesses identify customers at risk of churn, enabling them to take preventive actions and improve retention rates.
